@@ -1,0 +1,37 @@
+html, body {
+    background-color: #ccccff;
+}
+
+#app{
+    margin: 5vh 70vh 50vh 70vh;
+    background-color: white;
+    padding-bottom: 4em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    border-radius: 0.5em;
+}
+
+#todo-title {
+    text-align: center;
+    padding: 0.5em;
+    background: #ff99ce;
+    border-radius: 0.5em;
+    color: white;
+    text-shadow: 2px 3px #000;
+}
+
+#todo-subtitle {
+    text-align: center;
+}
+
+#todo-input {
+    display: block;
+    margin: auto;
+}
+
+#todo-submit {
+    display: block;
+    margin: auto;
+    margin-top: 0.5em;
+}
